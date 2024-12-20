@@ -9,6 +9,12 @@
 - Telegram [@openloop_updates](https://t.me/openloop_updates)
 - discord [https://discord.com/invite/75qBRaUczN](https://discord.com/invite/75qBRaUczN)
 
+## Update
+- **auto update tokens if expired**:
+- fill email and pass to `accounts.txt`
+   ![accounts.txt](image-2.png)
+
+
 ## **Features**
 
 - **Register Accounts**
